@@ -3,7 +3,7 @@
 This is a concurrent implementation of the Inverted Index data structure using Rust programming language.
 
 <p align="center">
-  <img width="591" height="558" src="https://github.com/pwbh/search-engine/assets/127856937/d702960c-6382-4eeb-971a-c42e05477a44"  style="border-radius: 5px;">
+  <img src="https://codefying.files.wordpress.com/2015/12/simpleinvertedindex.jpg?w=640" style="border-radius: 5px;">
 </p>
 
 ### A quote about inverted index from Wikipedia
