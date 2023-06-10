@@ -26,3 +26,9 @@ fn main() {
     println!("{}", inverted_index);
 }
 ```
+
+## Performance
+
+| LoT    | Single Thread | Multi Thread (100 Threads) |
+| ------ | ------------- | -------------------------- |
+| 80,000 | 3m 49.75s     | 3.686s                     |
