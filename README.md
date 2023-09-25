@@ -29,6 +29,6 @@ fn main() {
 
 ## Performance
 
-| LoT    | Single Thread | Multi Thread (100 Threads) |
+| LoT    | Single Thread | Multi Thread (100 worker threads) |
 | ------ | ------------- | -------------------------- |
 | 80,000 | 3m 49.75s     | 3.686s                     |
